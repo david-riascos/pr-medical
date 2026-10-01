@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+}
+
+.contenedor {
+  max-width: 480px;
+  margin: 4rem auto;
+  text-align: center;
+}
+
+button {
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.ok {
+  color: #2e7d32;
+}
+
+.error {
+  color: #c62828;
+}
